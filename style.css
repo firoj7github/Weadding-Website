@@ -1,0 +1,152 @@
+/* Angagement css style */
+.angagement-img{
+    margin-top: 120px;
+    border-radius: 12px;
+   
+}
+.angagement-side{
+    margin-top: 105px;
+    
+}
+
+
+/* google font */
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500&family=Montserrat&family=Poppins:ital@1&display=swap');
+
+
+
+/* body css */
+ body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E5E5E5;
+ }
+
+ /* navbar css */
+ .nav-title{
+     font-size: 22px;
+     font-weight: bold;
+     color: darkslategray;
+     margin-left: 65px;
+ }
+ /* carosel css */
+ .carousei-title{
+     font-size: 40px;
+     font-weight: bold;
+ }
+.Package-part-3{
+    color: azure;
+    background-color: darkcyan;
+    border-radius: 35px;
+}
+ .package-all-item{
+     margin-top: 70px; 
+}
+.package-item{
+    color: darkslategrey;
+}
+.package-header{
+    margin-bottom: 75px;
+    font-weight: bold;
+    color: darkslategrey;
+    margin-top: 95px;
+}
+.package-btn{
+    color: darkslategrey;
+   font-weight: bold;
+   background-color: lightgrey;
+   border-radius: 7px;
+    
+}
+
+/* weading css style */
+.weading-title{
+ text-align: center;
+ color: darkslategrey;
+ margin-bottom: 45px;
+ font-weight: bold;
+}
+.weading-item{
+    margin-top: 110px;
+}
+.collection-btn{
+    background-color: darkcyan;   
+}
+
+/* ask question part css */
+
+.question-title{
+ text-align: center;
+ color: darkslategrey;
+ font-weight: bold;
+ margin-bottom: 85px;
+}
+
+.question-item{
+    margin-top: 80px;
+    margin-bottom: 125px;
+}
+
+/* footer css */
+
+.footer-all{
+    height: 230px;
+    background-color: #0B0D17;
+}
+.footer-copyright{
+    margin-left: 85px;
+    color: mintcream;
+    font-size: 14px;
+    opacity: 60%;
+}
+
+
+
+.fa-apple{
+    font-size: 35px;
+    margin-left: 10px;
+    color: aqua;
+}
+.fa-google-play{
+    font-size: 30px;
+    margin-left: 10px;
+    color: aqua;
+   padding-top: 2px;
+}
+.footer-header{
+    margin-left: 75px;
+}
+.apple-item-1{
+ width: 140px;
+ color: mintcream;
+ border-radius: 6px;
+ border: 1px solid white;
+ padding: 1px;
+ margin-left: 75px;
+}
+.apple-item-2{
+ width: 140px;
+ color: mintcream;
+ border-radius: 6px;
+ border: 1px solid white;
+ padding: 1px;
+ margin-top: 10px;
+ margin-left: 75px;
+}
+
+/* via amar ssss ai nam bade css style kno jano hosce na.ami bujte parci na kno.change korci kintu hosce na. please ar jonno kono number katben na. ami agay ssss try korar jonno bebohar korecilam. plz plz........ */
+
+.ssss h6 , h5 {
+   margin-top: 3px;
+   margin-left: 5px;
+   margin: 0px;
+}
+.ssss h6 {
+   
+   font-size: 10px;
+   margin-left: 10px;
+}
+.ssss h5 {
+   
+   font-size: 12px;
+   margin-left: 10px;
+}
